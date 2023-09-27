@@ -9,9 +9,10 @@
   justify-items: center;
 }
 
-.c1 {
+.screen1 {
   width: 94%;
   height: 95%;
   background-color: #393838;
+  border-radius: 1.5rem;
   
 }
