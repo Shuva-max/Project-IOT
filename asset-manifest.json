@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Project-IOT/static/css/main.80e7c8e7.css",
+    "main.js": "/Project-IOT/static/js/main.5ce464bd.js",
+    "static/js/787.f5d066b0.chunk.js": "/Project-IOT/static/js/787.f5d066b0.chunk.js",
+    "index.html": "/Project-IOT/index.html",
+    "main.80e7c8e7.css.map": "/Project-IOT/static/css/main.80e7c8e7.css.map",
+    "main.5ce464bd.js.map": "/Project-IOT/static/js/main.5ce464bd.js.map",
+    "787.f5d066b0.chunk.js.map": "/Project-IOT/static/js/787.f5d066b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80e7c8e7.css",
+    "static/js/main.5ce464bd.js"
+  ]
+}
